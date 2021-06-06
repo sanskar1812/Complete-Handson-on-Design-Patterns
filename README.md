@@ -1,7 +1,7 @@
 # Complete Handson on Design Patterns
 ## Complete handson on Design Patterns (DAY 45,46,47)
 
-<p>You can reach to the handson Directly:</p>
+<u><p><I>You can reach to the handson Directly:</p></u></I>
 
 <ul>
   <li><a href="https://github.com/sanskar1812/Complete-Handson-on-Design-Patterns/tree/main/DAY%2045%2C46%2C47%20Design%20Patterns/DAY%201%20SESSION%202">DAY 1 Session 1</a></li>
